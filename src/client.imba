@@ -4,6 +4,6 @@ tag Client
 	def render
 		<self>
 			<h1> "Black Text"
-			<h1> "Blue Text"
+			<BlueText>
 
 Imba.mount <Client>
